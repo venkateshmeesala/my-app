@@ -1,0 +1,14 @@
+.logo{
+    min-width: fit-content;
+}
+.logo img{
+    width: 5rem;
+    margin-right: .6rem;
+    margin-top: .5rem;
+}
+
+.logo > div {
+    display:flex;
+    align-items: center;
+    color: rgb(149, 140, 129);
+}
